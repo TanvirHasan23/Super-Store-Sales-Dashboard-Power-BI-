@@ -22,4 +22,4 @@ Based on these insights, the following recommendations are suggested:
 *   **Inventory Optimization:** Focus on maintaining adequate stock levels for top-performing product sub-categories (Phones, Chairs, Binders) within the Office Supplies category.
 *   **Shipping Analysis:** Conduct a deeper analysis of shipping methods to understand the trade-offs between cost, delivery time, and customer satisfaction. Explore opportunities to optimize shipping costs or improve delivery speed.
 *   **Regional Analysis:** Conduct further analysis to understand the drivers of performance in each region and identify opportunities for improvement.
-*   **Further Investigation of Growth:** Investigate the factors that contributed to the growth from 2019-2020 to replicate success.
+*   **Further Investigation of Growth:** Investigate the factors that contributed to the growth from 2019-2020 to replicate success 
